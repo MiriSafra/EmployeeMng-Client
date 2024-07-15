@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "source": ".",
+    "public": "dist/employee-management-client/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
